@@ -16,10 +16,11 @@ The goal is to practice test case design, bug reporting, and basic validation st
 
 ## Tested Features
 
-- Login and authentication  
-- Food logging and diary management  
-- Calorie goal setting  
-- Nutrition summary overview  
+- **Login & Authentication**  
+- **Food Logging & Diary Management**  
+- **Calorie Goal Setting**  
+- **Daily Nutrition Summary**  
+- **Water Intake Tracking**  
 
 ---
 
@@ -29,7 +30,7 @@ The goal is to practice test case design, bug reporting, and basic validation st
   A formal set of 5 manually written test cases covering login, food logging, goal setting, and diary features. Each case includes preconditions, steps, expected results, and severity level.
 
 - `BugReports_MyFitnessPal.docx` *(coming soon)*  
-  Will include identified issues with steps to reproduce, expected vs actual results, severity, and screenshots if applicable.
+    Contains 5 detailed bug reports identified during manual testing. Each report includes environment, reproducibility, steps to reproduce, expected vs actual results, severity, priority, status, reporter, and date.
 
 - `TestPlan_MyFitnessPal.docx` *(optional in future)*  
   May include scope, objectives, test strategy, environment, and risk-based testing focus.
@@ -38,9 +39,12 @@ The goal is to practice test case design, bug reporting, and basic validation st
 
 ## Tools Used
 
-- Microsoft Word (for test case and bug report documentation)  
-- GitHub (for version control and portfolio hosting)  
-- MyFitnessPal mobile app (subject under test)
+- **Application Under Test**: MyFitnessPal v23.04.1 on Android and iOS  
+- **Documentation**: Microsoft Word (.docx)  
+- **Version Control**: GitHub  
+- **Test Environment Examples**:  
+  - Android 11 on Pixel 4  
+  - iOS 15 on iPhone 12  
 
 ---
 
