@@ -56,6 +56,21 @@ As part of this QA project, I created and maintained a professional testing work
 
 ---
 
+## 🧪 Testing Types Covered in JIRA
+
+This QA project includes documentation and issue tracking for five core testing types commonly used in manual software testing:
+
+- **Smoke Testing** – Confirmed app stability by verifying core flows like login and diary access  
+- **Sanity Testing** – Focused login flow tests after applying fixes  
+- **Regression Testing** – Re-tested core modules to ensure recent changes didn’t break existing functionality  
+- **User Acceptance Testing (UAT)** – Simulated a real user journey to validate product readiness  
+- **Exploratory Testing** – Performed freestyle testing to discover hidden or edge-case issues
+
+All testing types were tracked in JIRA using separate Task issues, proper labels, and a Kanban workflow (To Do → In Progress → Done).
+
+### 🖼️ Board Screenshot
+![Testing Types Board](./screenshots/testing_types_board.png.png)
+
 ## Tools Used
 
 - **Application Under Test**: MyFitnessPal v23.04.1 on Android and iOS  
